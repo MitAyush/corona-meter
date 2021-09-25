@@ -1,6 +1,6 @@
 @extends('layouts/main-layout')
 
-@section('title', "user-signup")
+@section('title', "Signup")
 
 
 @section('main-contents')

@@ -1,6 +1,6 @@
 @extends('layouts/main-layout')
 
-@section('title', "state-info")
+@section('title', "State Info")
 
 
 @section('main-contents')

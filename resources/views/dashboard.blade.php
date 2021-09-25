@@ -1,6 +1,6 @@
 @extends('layouts/main-layout')
 
-@section('title', "corona-dashboard")
+@section('title', "Corona Dashboard")
 
 
 @section('main-contents')

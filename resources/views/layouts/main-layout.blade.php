@@ -98,7 +98,7 @@
 	  <div id="copyright"><a href="https://api.covid19india.org/state_district_wise.json">Made in India</a> 
 	  	<img height="30px" src="https://img.icons8.com/color/48/000000/like--v3.png"/>
 	  		with
-	    	<a href="https://www.linkedin.com/in/madhu-verma-25935118a/"> Madhu Verma</a>
+	    	<a href="https://www.linkedin.com/in/ayush-kumar-mit/"> Ayush</a>
 	  </div>
 
 	</footer>

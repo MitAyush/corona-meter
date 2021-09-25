@@ -1,6 +1,6 @@
 @extends('layouts/main-layout')
 
-@section('title', "vaccination-info")
+@section('title', "Vaccination Info")
 
 @section('main-contents')
     <div class="container-fluid">
